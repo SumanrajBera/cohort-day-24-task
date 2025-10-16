@@ -83,7 +83,7 @@ main #view #bottom #text button {
   border-radius: 0.3rem;
 }
 
-@media (min-width: 1020px) {
+@media (min-width: 900px) {
   main #view {
     flex-direction: row;
   }
@@ -93,13 +93,21 @@ main #view #bottom #text button {
   }
   main #view #bottom {
     justify-content: space-between;
+    gap: 2rem;
+  }
+  main #view #bottom #text h1 {
+    letter-spacing: 0.4rem;
+    font-size: 3rem;
+  }
+}
+@media (min-width: 1200px) {
+  main #view #bottom {
     padding: 3rem;
   }
   main #view #bottom #text {
     gap: 1.5rem;
   }
   main #view #bottom #text h1 {
-    letter-spacing: 0.4rem;
     font-size: 4rem;
   }
   main #view #bottom #text p {
