@@ -7,7 +7,7 @@
 ## Task Completion
 | Laptop View | Tablet view | Mobile view |
 |-------------|-------------|-------------|
-| ![laptop](./ss/Laptop.png)|  ![tablet](./ss/Tablet.png) |  ![mobile](./ss/mobile.png)|
+| ![laptop](./ss/Laptop.png)|  ![tablet](./ss/Tablet.png) |  ![mobile](./ss/Mobile.png)|
 
 ## Summary
 - This was a good practical to create a responsive webpage
